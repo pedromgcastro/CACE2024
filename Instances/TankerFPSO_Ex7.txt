@@ -1,0 +1,7 @@
+*Data file for Tanker Scheduling Problem
+
+H=15;
+
+PARAMETERS
+NODES(N)	/N0*N9 1/
+VESSELS(V)	/V1*V8 1/;
